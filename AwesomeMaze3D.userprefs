@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\changeCameras.cs">
+    <Files>
+      <File FileName="Assets\Scripts\readFile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\changeCameras.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\hammerFunction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameFinish.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\tz3m\Documents\AwesomeMaze3D\Assets\Scripts\rotateCamera.cs" line="8" column="1" />
+      <Breakpoint file="C:\Users\tz3m\Documents\AwesomeMaze3D\Assets\Scripts\rotateCamera.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
